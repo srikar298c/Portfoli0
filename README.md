@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Siddhartha
+# Responsive Portfolio Website Srikar
 
 
 
